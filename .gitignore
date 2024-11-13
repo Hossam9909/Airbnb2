@@ -1,0 +1,6 @@
+Ignore data files 
+*.csv 
+*.csv.gz
+
+Ignore 
+*.geojson 
